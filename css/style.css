@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto"rel="stylesheet");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px
+	 }
+
+html{
+
+	background-color: rgb(207,97,0);
+
+}
+
+h1, h2, h3,p {
+	font-family:'Roboto', sans-serif;
+		}
+
+a {  text-decoration: none;
+	font-family:'lora', serif;
+ }
+
+ .list-horizontal{
+	list-style:none;
+}
+
+#applebutton{
+ color:rgb(207,97,0);
+ font-size: 102px;
+}
+
+#card2{
+	margin-left: 100px
+}
+
+#googlebutton{
+ color:rgb(207,97,0);
+ font-size: 100px;
+}
+
+.card h3 {
+	text-align: center;
+}
+
+.card p {
+	text-align: center;
+	padding-bottom: 70px;
+}
+#facebook{
+color:rgb(207,97,0);
+ font-size: 70px;
+}
+#twitter{
+color:rgb(207,97,0);
+ font-size: 70px;
+
+}
+
+#instagram{
+color:rgb(207,97,0);
+ font-size: 70px;
+}
+
